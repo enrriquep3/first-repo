@@ -1,2 +1,2 @@
 # first-repo
-first complete repo
+first complete repo it is awesome and great 
